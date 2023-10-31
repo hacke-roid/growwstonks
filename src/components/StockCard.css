@@ -1,0 +1,19 @@
+.stock-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 10px;
+    width: 250px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .stock-card h3 {
+    margin-bottom: 8px;
+    font-size: 1.2em;
+  }
+  
+  .stock-card p {
+    margin: 5px 0;
+  }
+  
